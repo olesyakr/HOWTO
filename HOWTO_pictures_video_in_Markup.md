@@ -1,9 +1,8 @@
-# Test
-1st repositoty test
+# HOWTO insert pictures and other media into Markup file
+example of uses can be to create more interesting README file
 
 Hi,
 My name is Olesya. I like new technologies and would like to learn how to code to create something useful.
-I've got my compass and notepad to find direction for the goals I come up with =)
 
 My HOWTO notes for README file:
 1. to add a code snippet, add three tildes \~~~ on the line above and below the desired code.
@@ -36,10 +35,8 @@ To resize is better to use HTML (I am doing 50% of original size here)
 
 \<img src="https://www.tec-science.com/wp-content/uploads/2021/03/en-worm-gear-globoid-worm-helical-gear-768x432.jpg" width="50%" height="50%"/>
 
-
-
 <img src="https://www.tec-science.com/wp-content/uploads/2021/03/en-worm-gear-globoid-worm-helical-gear-768x432.jpg" width="50%" height="50%"/>
 
 
-
-TO BE CONTINUED...
+For side by side image display, place HTML code ritght next to the the previous image code and it will appear side by side
+<img src="https://www.tec-science.com/wp-content/uploads/2021/03/en-worm-gear-globoid-worm-helical-gear-768x432.jpg" width="50%" height="50%"/><img src="https://www.tec-science.com/wp-content/uploads/2021/03/en-worm-gear-globoid-worm-helical-gear-768x432.jpg" width="50%" height="50%"/>
