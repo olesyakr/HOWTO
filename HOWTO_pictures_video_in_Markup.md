@@ -1,10 +1,11 @@
 # HOWTO insert pictures and other media into Markup file
-example of uses can be to create more interesting README file
 
 Hi,
 My name is Olesya. I like new technologies and would like to learn how to code to create something useful.
 
-My HOWTO notes for README file:
+My HOWTO notes for a Markup file in Github:
+example of uses can be to create more interesting README file
+
 ### 1. to add a code snippet, add three tildes \~~~ on the line above and below the desired code.
   
    for example, write this in Markdown:
