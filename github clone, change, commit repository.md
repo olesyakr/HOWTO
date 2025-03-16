@@ -1,4 +1,4 @@
-HOWTO upload a folder into github
+## HOWTO upload a folder into github
 Using command prompt on Windows
 
 1. Clone the repository locally
