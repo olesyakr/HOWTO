@@ -1,8 +1,8 @@
-1) open Git
+1) open Git, navigate to desired folder on local machine (ex C://Git)
 2) git clone _insert URL from repository here_ ex:
    **git clone https://github.com/ORGANIZATION/MY_REPOSITORY_FOLDER.git**
 4) navigate to cloned branch
- **  cd MY_REPOSITORY_FOLDER**
+ **cd MY_REPOSITORY_FOLDER**
 6) create and switch to development branch:
    **git checkout -b development**
 8) **code .**  command (with dot) will open VS code
