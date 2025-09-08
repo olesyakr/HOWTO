@@ -7,9 +7,9 @@
    git checkout -b development
 8) code .  command (with dot) will open VS code
 9) switch to VS code, make changes in VS code IDE, save
-10) go back to Git Bash, check files
+10) go back to Git Bash, check files: 
    git status
-11) stage all changes in folder
+11) stage all changes in folder: 
    git add .
 12) git commit -m "my first commit to the development branch"
 13) git push --set-upstream origin development
