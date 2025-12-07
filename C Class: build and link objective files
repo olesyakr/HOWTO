@@ -1,0 +1,7 @@
+1. Commands to build objective files first, then combine:
+
+gcc -I..\Utilities -c main.c -o main.o
+gcc -I..\Utilities -c DayCounter.c -o DayCounter.o
+gcc -I..\Utilities -c ..\Utilities\SkipRestOfLine -o SkipRestOfLine.o
+...
+gcc main.o DayCounter.o SkipRestOfLine.o ... -o DayCounter.exe
