@@ -1,0 +1,2 @@
+notes:
+For the build to be considered Release by the compiler, your project must define the NDEBUG preprocessor macro.  The gcc argument to define such a macro is -D.  Thus, you need gcc -DNDEBUG as part of your command line for a Release build.
